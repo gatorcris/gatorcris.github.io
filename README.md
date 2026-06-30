@@ -20,3 +20,13 @@ This package keeps the simple single-card homepage style and adds a new `selecte
 - Total: 38 entries
 
 Upload the contents of this folder to the root of the `gatorcris.github.io` repository.
+
+## Refresh V4 - June 2026
+
+Updates included:
+- Homepage stats refreshed to 4,235 TikTok followers, 396.5K post views / 60 days, 211.1K viewers / 60 days, and 86% For You traffic.
+- Media kit PDF refreshed with updated email and audience metrics.
+- Selected Work expanded to 43 portfolio entries.
+- New entries added for Richurus LumiX, DeMarco Ironside 200, Arklin Watch Straps, Why I Wristcheck, and Melt or Sell?
+
+Upload/replace the contents of this folder at the root of the GitHub Pages repo.
