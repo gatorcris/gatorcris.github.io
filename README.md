@@ -30,3 +30,8 @@ Updates included:
 - New entries added for Richurus LumiX, DeMarco Ironside 200, Arklin Watch Straps, Why I Wristcheck, and Melt or Sell?
 
 Upload/replace the contents of this folder at the root of the GitHub Pages repo.
+
+
+## V6 update
+- Added Richurus LumiX, Carbon Black review to Selected Work.
+- Selected Work totals updated to 44 total entries and 18 reviews.
