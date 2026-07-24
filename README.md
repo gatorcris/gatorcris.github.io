@@ -1,37 +1,40 @@
-# GatorCris Conservative Site Package V2
+# GatorCris GitHub Site Refresh V7
 
-This package keeps the simple single-card homepage style and adds a new `selected-work.html` page for direct content examples.
+Deploy-ready files are in `deploy-ready/`.
 
-## Files
+Versioned reference files are in `versioned/`.
 
-- `index.html` - conservative homepage with Media Kit and Selected Work links
-- `selected-work.html` - portfolio/archive page with 38 entries
-- `assets/css/styles.css` - shared CSS
-- `assets/img/avatar.jpg` - optimized profile/avatar image
-- `GatorCris_MediaKit_2026.pdf` - original media kit PDF preserved
+## V7 changes
 
-## Portfolio counts
+Updated `selected-work.html` from V6 to V7.
 
-- Reviews: 16 entries
-- Unboxings & First Looks: 7 entries
-- Shows, Shopping & Watch Travel: 9 entries
-- Straps, Accessories & Styling: 4 entries
-- WatchTok Shorts & Lifestyle: 2 entries
-- Total: 38 entries
+Added:
 
-Upload the contents of this folder to the root of the `gatorcris.github.io` repository.
+- Mr Jones — A Perfectly Useless Afternoon — Review / Brand Content
+- Mr Jones — A Perfectly Useless Afternoon — Unboxing
+- Beaucroft — Element — Unboxing
+- Windup Watch Fair Chicago — 5 Surprising Brands at Windup
+- Windup Watch Fair Chicago — 5 Tasty Dive Watches at Windup
+- Windup Watch Fair Chicago — 5 Young Turks at Windup
+- Windup Watch Fair Chicago — 5 Lustworthy Watches at Windup Chicago
 
-## Refresh V4 - June 2026
+Also removed a duplicate Richurus review entry that had been incorrectly appearing under WatchTok Shorts & Lifestyle in the prior generated file.
 
-Updates included:
-- Homepage stats refreshed to 4,235 TikTok followers, 396.5K post views / 60 days, 211.1K viewers / 60 days, and 86% For You traffic.
-- Media kit PDF refreshed with updated email and audience metrics.
-- Selected Work expanded to 43 portfolio entries.
-- New entries added for Richurus LumiX, DeMarco Ironside 200, Arklin Watch Straps, Why I Wristcheck, and Melt or Sell?
+## Updated Selected Work counts
 
-Upload/replace the contents of this folder at the root of the GitHub Pages repo.
+- Reviews: 19
+- Unboxings & First Looks: 10
+- Shows, Shopping & Watch Travel: 13
+- Straps, Accessories & Styling: 5
+- WatchTok Shorts & Lifestyle: 4
+- Total portfolio entries: 51
 
+## GitHub upload
 
-## V6 update
-- Added Richurus LumiX, Carbon Black review to Selected Work.
-- Selected Work totals updated to 44 total entries and 18 reviews.
+Upload the contents of `deploy-ready/` to the root of `gatorcris.github.io` and replace existing files.
+
+Use cache-buster URLs after upload:
+
+- https://gatorcris.github.io/?v=7
+- https://gatorcris.github.io/selected-work.html?v=7
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=7
