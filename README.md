@@ -1,40 +1,59 @@
-# GatorCris GitHub Site Refresh V7
+# GatorCris GitHub Site Refresh V9
 
 Deploy-ready files are in `deploy-ready/`.
 
 Versioned reference files are in `versioned/`.
 
-## V7 changes
+## V9 changes
 
-Updated `selected-work.html` from V6 to V7.
+Updated the homepage and media kit PDF with July 2026 TikTok analytics.
 
-Added:
+### Updated headline metrics
 
-- Mr Jones — A Perfectly Useless Afternoon — Review / Brand Content
-- Mr Jones — A Perfectly Useless Afternoon — Unboxing
-- Beaucroft — Element — Unboxing
-- Windup Watch Fair Chicago — 5 Surprising Brands at Windup
-- Windup Watch Fair Chicago — 5 Tasty Dive Watches at Windup
-- Windup Watch Fair Chicago — 5 Young Turks at Windup
-- Windup Watch Fair Chicago — 5 Lustworthy Watches at Windup Chicago
+- TikTok followers: 4,235 (unchanged until a newer follower total is provided)
+- Post views / 60 days: 641.8K
+- Viewers / 60 days: 459.9K
+- New viewers / 60 days: 431.6K
+- For You traffic: 92.2%
+- Search traffic: 3.4%
+- Profile views / 60 days: 2.4K
+- Likes / 60 days: 15K
+- Comments / 60 days: 1K
+- Shares / 60 days: 275
 
-Also removed a duplicate Richurus review entry that had been incorrectly appearing under WatchTok Shorts & Lifestyle in the prior generated file.
+### Audience profile notes
 
-## Updated Selected Work counts
+- Viewer gender: 70% male / 30% female
+- Follower gender: 81% male / 18% female / 1% other
+- Top follower age ranges: 45-54 (31.6%), 35-44 (28.1%), 55+ (17.1%), 25-34 (17.9%)
+- Top follower location: United States (47.9%)
 
-- Reviews: 19
+## Selected Work
+
+No new selected-work entries were added in V9. V8 selected-work content is preserved.
+
+Current Selected Work counts remain:
+
+- Reviews: 20
 - Unboxings & First Looks: 10
 - Shows, Shopping & Watch Travel: 13
 - Straps, Accessories & Styling: 5
 - WatchTok Shorts & Lifestyle: 4
-- Total portfolio entries: 51
+- Total portfolio entries: 52
 
 ## GitHub upload
 
-Upload the contents of `deploy-ready/` to the root of `gatorcris.github.io` and replace existing files.
+For this update, upload/replace these files from `deploy-ready/`:
+
+- `index.html`
+- `GatorCris_MediaKit_2026.pdf`
+- `GatorCris_MediaKit_2026.txt`
+- `README.md`
+
+You do not need to upload `selected-work.html` or the `assets/` folder unless you want to keep all files in sync.
 
 Use cache-buster URLs after upload:
 
-- https://gatorcris.github.io/?v=7
-- https://gatorcris.github.io/selected-work.html?v=7
-- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=7
+- https://gatorcris.github.io/?v=9
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=9
+- https://gatorcris.github.io/selected-work.html?v=9
