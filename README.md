@@ -1,16 +1,16 @@
-# GatorCris GitHub Site Refresh V9
+# GatorCris GitHub Site Refresh V10
 
 Deploy-ready files are in `deploy-ready/`.
 
 Versioned reference files are in `versioned/`.
 
-## V9 changes
+## V10 changes
 
 Updated the homepage and media kit PDF with July 2026 TikTok analytics.
 
 ### Updated headline metrics
 
-- TikTok followers: 4,235 (unchanged until a newer follower total is provided)
+- TikTok followers: 4,548 (unchanged until a newer follower total is provided)
 - Post views / 60 days: 641.8K
 - Viewers / 60 days: 459.9K
 - New viewers / 60 days: 431.6K
@@ -30,7 +30,7 @@ Updated the homepage and media kit PDF with July 2026 TikTok analytics.
 
 ## Selected Work
 
-No new selected-work entries were added in V9. V8 selected-work content is preserved.
+No new selected-work entries were added in V10. V8 selected-work content is preserved.
 
 Current Selected Work counts remain:
 
@@ -54,6 +54,6 @@ You do not need to upload `selected-work.html` or the `assets/` folder unless yo
 
 Use cache-buster URLs after upload:
 
-- https://gatorcris.github.io/?v=9
-- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=9
-- https://gatorcris.github.io/selected-work.html?v=9
+- https://gatorcris.github.io/?v=10
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=10
+- https://gatorcris.github.io/selected-work.html?v=10
