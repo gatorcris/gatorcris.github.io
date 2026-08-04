@@ -58,3 +58,9 @@ Use cache-buster URLs after upload:
 - https://gatorcris.github.io/?v=11
 - https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=11
 - https://gatorcris.github.io/selected-work.html?v=11
+
+
+## V12 update
+- Selected Work page now uses collapsible brand/topic groups.
+- Each group has a stable anchor link and a Copy link button for brand-specific outreach.
+- Direct links such as `selected-work.html#wolbrook` open the matching group automatically.
