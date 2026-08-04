@@ -1,10 +1,10 @@
-# GatorCris GitHub Site Refresh V10
+# GatorCris GitHub Site Refresh V11
 
 Deploy-ready files are in `deploy-ready/`.
 
 Versioned reference files are in `versioned/`.
 
-## V10 changes
+## V11 changes
 
 Updated the homepage and media kit PDF with July 2026 TikTok analytics.
 
@@ -30,30 +30,31 @@ Updated the homepage and media kit PDF with July 2026 TikTok analytics.
 
 ## Selected Work
 
-No new selected-work entries were added in V10. V8 selected-work content is preserved.
+Added one new review entry:
 
-Current Selected Work counts remain:
+- Wolbrook — Pan4Timer — Review — TikTok
+  - https://www.tiktok.com/@gatorcris/video/7668901018494651661
 
-- Reviews: 20
+Updated Selected Work counts:
+
+- Reviews: 21
 - Unboxings & First Looks: 10
 - Shows, Shopping & Watch Travel: 13
 - Straps, Accessories & Styling: 5
 - WatchTok Shorts & Lifestyle: 4
-- Total portfolio entries: 52
+- Total portfolio entries: 53
 
 ## GitHub upload
 
 For this update, upload/replace these files from `deploy-ready/`:
 
-- `index.html`
-- `GatorCris_MediaKit_2026.pdf`
-- `GatorCris_MediaKit_2026.txt`
+- `selected-work.html`
 - `README.md`
 
-You do not need to upload `selected-work.html` or the `assets/` folder unless you want to keep all files in sync.
+You do not need to upload `index.html`, `GatorCris_MediaKit_2026.pdf`, `GatorCris_MediaKit_2026.txt`, or the `assets/` folder unless you want to keep all files in sync.
 
 Use cache-buster URLs after upload:
 
-- https://gatorcris.github.io/?v=10
-- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=10
-- https://gatorcris.github.io/selected-work.html?v=10
+- https://gatorcris.github.io/?v=11
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=11
+- https://gatorcris.github.io/selected-work.html?v=11
