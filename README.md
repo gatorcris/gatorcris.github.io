@@ -35,3 +35,11 @@ You do not need to upload `selected-work.html`, `index.html`, `GatorCris_MediaKi
 Use this cache-buster URL after upload:
 
 - https://gatorcris.github.io/selected-work.html?v=13
+
+
+## V14 Update
+
+- Added Rook & Castle — Adagio Marino review.
+- Added Rook & Castle — Adagio Marino unboxing.
+- Updated Selected Work counts: 22 reviews, 11 unboxings, 55 total portfolio entries.
+- Deploy changed files: selected-work.html and README.md.
