@@ -1,45 +1,36 @@
-# GatorCris GitHub Site Refresh V13
+# GatorCris GitHub Site Refresh V18
 
 Deploy-ready files are in `deploy-ready/`.
 
 Versioned reference files are in `versioned/`.
 
-## V13 changes
+## V18 changes
 
-Selected Work page styling update:
+- Scanned the current site package and refreshed all public-facing deliverables against the latest data and content state.
+- Main page remains updated with the newest audience data: 4,636 TikTok followers, 408K 60-day viewers, 386.3K 60-day new viewers, and 81% male followers.
+- Media kit PDF and text file updated with the newest Aug. 14 analytics and WatchCrunch count.
+- Partnership Terms product language softened: review model, loaner, or retained product is handled by mutual agreement before shipment.
+- Disclosure language expanded to cover gifted product or paid partnerships.
+- Selected Work remains current, including Monterey Watch Company — Celestium, Rook & Castle review/unboxing, Wolbrook Pan4Timer, collapsible brand sections, and Copy link buttons.
 
-- Copy link buttons are now right-aligned within each collapsible brand/topic row.
-- Copy link buttons now use the site gold color as their default button color.
-- Hover/copied state reverses to navy with gold text for contrast.
+## Source-note on analytics
 
-No content entries or media kit stats changed in V13.
-
-## Current Selected Work counts
-
-- Reviews: 21
-- Unboxings & First Looks: 10
-- Shows, Shopping & Watch Travel: 13
-- Straps, Accessories & Styling: 5
-- WatchTok Shorts & Lifestyle: 4
-- Total portfolio entries: 53
+The latest screenshots include updated 60-day viewer and follower metrics plus 7-day post-view metrics. They do not include an updated 60-day total post-view figure, so this refresh uses current 60-day viewer data and clearly labels the 7-day post-view window.
 
 ## GitHub upload
 
 For this update, upload/replace these files from `deploy-ready/`:
 
-- `assets/css/styles.css`
+- `index.html`
+- `selected-work.html`
+- `GatorCris_MediaKit_2026.pdf`
+- `GatorCris_MediaKit_2026.txt`
 - `README.md`
 
-You do not need to upload `selected-work.html`, `index.html`, `GatorCris_MediaKit_2026.pdf`, `GatorCris_MediaKit_2026.txt`, or `assets/img/avatar.jpg` unless you want to keep every file in sync.
+You do not need to upload `assets/` unless you want to re-upload everything for consistency.
 
-Use this cache-buster URL after upload:
+Use these cache-buster URLs after upload:
 
-- https://gatorcris.github.io/selected-work.html?v=13
-
-
-## V14 Update
-
-- Added Rook & Castle — Adagio Marino review.
-- Added Rook & Castle — Adagio Marino unboxing.
-- Updated Selected Work counts: 22 reviews, 11 unboxings, 55 total portfolio entries.
-- Deploy changed files: selected-work.html and README.md.
+- https://gatorcris.github.io/?v=18
+- https://gatorcris.github.io/selected-work.html?v=18
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=18
