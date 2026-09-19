@@ -1,25 +1,9 @@
-# GatorCris GitHub Site Refresh V18
+# GatorCris Site Refresh V20
 
-Deploy-ready files are in `deploy-ready/`.
+Generated update package for gatorcris.github.io.
 
-Versioned reference files are in `versioned/`.
-
-## V18 changes
-
-- Scanned the current site package and refreshed all public-facing deliverables against the latest data and content state.
-- Main page remains updated with the newest audience data: 4,636 TikTok followers, 408K 60-day viewers, 386.3K 60-day new viewers, and 81% male followers.
-- Media kit PDF and text file updated with the newest Aug. 14 analytics and WatchCrunch count.
-- Partnership Terms product language softened: review model, loaner, or retained product is handled by mutual agreement before shipment.
-- Disclosure language expanded to cover gifted product or paid partnerships.
-- Selected Work remains current, including Monterey Watch Company — Celestium, Rook & Castle review/unboxing, Wolbrook Pan4Timer, collapsible brand sections, and Copy link buttons.
-
-## Source-note on analytics
-
-The latest screenshots include updated 60-day viewer and follower metrics plus 7-day post-view metrics. They do not include an updated 60-day total post-view figure, so this refresh uses current 60-day viewer data and clearly labels the 7-day post-view window.
-
-## GitHub upload
-
-For this update, upload/replace these files from `deploy-ready/`:
+## Deploy-ready files
+Upload these files from `deploy-ready/` to the repository root:
 
 - `index.html`
 - `selected-work.html`
@@ -27,10 +11,19 @@ For this update, upload/replace these files from `deploy-ready/`:
 - `GatorCris_MediaKit_2026.txt`
 - `README.md`
 
-You do not need to upload `assets/` unless you want to re-upload everything for consistency.
+No asset upload is required unless you want to refresh all files.
 
-Use these cache-buster URLs after upload:
+## V20 changes
 
-- https://gatorcris.github.io/?v=18
-- https://gatorcris.github.io/selected-work.html?v=18
-- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=18
+- Updated main page stats to latest 60-day TikTok data from Jul 20 - Sep 17.
+- Main page now shows male/female follower split instead of only male follower percentage.
+- Updated Media Kit PDF and text with current follower, viewer, traffic, and engagement data.
+- Corrected M-DVR review brand attribution to Radcliffe Watch Co. in Selected Work.
+
+## Test after commit
+
+- https://gatorcris.github.io/?v=20
+- https://gatorcris.github.io/selected-work.html?v=20
+- https://gatorcris.github.io/selected-work.html#monterey-watch-company
+- https://gatorcris.github.io/selected-work.html#radcliffe-watch-co
+- https://gatorcris.github.io/GatorCris_MediaKit_2026.pdf?v=20
